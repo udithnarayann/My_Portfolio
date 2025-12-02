@@ -1,16 +1,60 @@
-# React + Vite
+# 🚀 Udith Narayan — AI Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This site showcases my work as an **AI Engineer**, including my experience, technical skills, and projects involving:
 
-Currently, two official plugins are available:
+- AI & NLP  
+- Automation  
+- Machine Learning  
+- Cloud Engineering  
+- Full-stack development  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This portfolio was built with a modern, animated, futuristic aesthetic designed to reflect my work in AI.
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 🌐 Live Website
+🚀 **(Deployed via Vercel — link goes here once live)**  
+Example: https://udith-portfolio.vercel.app
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧑‍💻 Tech Stack
+
+### **Frontend**
+- React (Vite)
+- TailwindCSS
+- Framer Motion (animations)
+- Custom dark/futuristic UI design
+
+### **Tools**
+- Git & GitHub
+- Vercel (deployment)
+- NPM ecosystem
+
+---
+
+## 🧠 Features
+
+### ✔ Fully Responsive Design  
+Works seamlessly on desktop, tablet, and mobile.
+
+### ✔ Futuristic Animated UI  
+Glow effects, motion transitions, hover animations, and smooth interactive layout.
+
+### ✔ Resume Integration  
+Instant resume download directly from the site.
+
+### ✔ Project Showcase  
+Includes all real experience + additional AI/ML projects for recruiters.
+
+### ✔ Skills Highlight  
+AI, NLP, ML, backend, cloud, and automation technologies.
+
+### ✔ About Me + Hire Me Sections  
+Clear, professional messaging for recruiters and hiring managers.
+
+---
+
+## 📂 Project Structure
+
