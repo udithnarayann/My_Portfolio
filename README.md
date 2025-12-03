@@ -99,8 +99,9 @@ npm run dev
 
 Your site will be live at:
 
+~~~bash
 http://localhost:5173
-
+~~~
 
 ---
 
