@@ -13,9 +13,9 @@ This portfolio was built with a modern, animated, futuristic aesthetic designed 
 
 ---
 
-## 🌐 Live Website
-🚀 **(Deployed via Vercel — link goes here once live)**  
-Example: https://udith-portfolio.vercel.app
+## 🌐 Live Website  
+**(Add your Vercel deployment URL here once live)**  
+Example: `https://udith-portfolio.vercel.app`
 
 ---
 
@@ -24,37 +24,115 @@ Example: https://udith-portfolio.vercel.app
 ### **Frontend**
 - React (Vite)
 - TailwindCSS
-- Framer Motion (animations)
-- Custom dark/futuristic UI design
+- Framer Motion
+- Custom dark/futuristic UI
 
 ### **Tools**
-- Git & GitHub
-- Vercel (deployment)
-- NPM ecosystem
+- Git & GitHub  
+- Vercel (deployment)  
+- NPM ecosystem  
 
 ---
 
 ## 🧠 Features
 
 ### ✔ Fully Responsive Design  
-Works seamlessly on desktop, tablet, and mobile.
+Adapts beautifully across desktop, tablet, and mobile devices.
 
 ### ✔ Futuristic Animated UI  
-Glow effects, motion transitions, hover animations, and smooth interactive layout.
+Glow effects, motion transitions, gradient lighting, and smooth interactive elements.
 
 ### ✔ Resume Integration  
-Instant resume download directly from the site.
+Instant PDF download from the website.
 
 ### ✔ Project Showcase  
-Includes all real experience + additional AI/ML projects for recruiters.
+Includes all real experience and additional AI/ML projects to strengthen job applications.
 
-### ✔ Skills Highlight  
-AI, NLP, ML, backend, cloud, and automation technologies.
+### ✔ Skills Section  
+Highlights expertise in AI, NLP, ML, backend, cloud, automation, and tooling.
 
-### ✔ About Me + Hire Me Sections  
-Clear, professional messaging for recruiters and hiring managers.
+### ✔ About Me & Hire Me Sections  
+Built for recruiters and hiring managers to quickly understand your strengths.
 
 ---
 
 ## 📂 Project Structure
 
+~~~text
+my_portfolio/
+│── public/
+│   └── Udith_Narayan_Resume_AI_Engineer.pdf
+│── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── assets/
+│── package.json
+│── tailwind.config.js
+│── vite.config.js
+└── README.md
+~~~
+
+---
+
+## 🏗 Running Locally
+
+Clone the repository:
+
+~~~bash
+git clone https://github.com/udithnarayann/my_portfolio.git
+cd my_portfolio
+~~~
+
+Install dependencies:
+
+~~~bash
+npm install
+~~~
+
+Start the development server:
+
+~~~bash
+npm run dev
+~~~
+
+Your site will be live at:
+
+http://localhost:5173
+
+
+---
+
+## 🚀 Deployment
+
+This project is optimized for **Vercel**:
+
+- Automatic deployment on every `git push`
+- Free global hosting
+- Fast CDN
+- Perfect for React + Vite
+
+To deploy:
+
+1. Go to https://vercel.com  
+2. Connect your GitHub account  
+3. Import your repository  
+4. Click **Deploy**
+
+Your site goes live in seconds.
+
+---
+
+## 📬 Contact
+
+**Udith Narayan**  
+📧 Email: `udith.narayann@gmail.com`  
+🔗 LinkedIn: `https://linkedin.com/in/udith`  
+💻 GitHub: `https://github.com/udith`  
+
+---
+
+## ⭐ Like this Portfolio?
+
+Feel free to fork, star ⭐, or use it as inspiration for your own website.  
