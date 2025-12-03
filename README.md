@@ -14,7 +14,7 @@ This portfolio was built with a modern, animated, futuristic aesthetic designed 
 ---
 
 ## 🌐 Live Website  
-**(Add your Vercel deployment URL here once live)**  
+**(Add here)**  
 Example: `https://udith-portfolio.vercel.app`
 
 ---
