@@ -1,16 +1,115 @@
-# React + Vite
+# Udith Narayan — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive portfolio showcasing my work in **AI engineering, software development, and creative technology**.  
+Built with **React, Vite, Tailwind CSS**, and enhanced with **custom UI effects, animations, and AI-powered utilities**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## React Compiler
+### **Frontend**
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- Custom particle background & cursor effects
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+### **Backend / API**
+- Vercel Serverless Functions (`/api`)
+- Google Gemini API (chatbot + email generator)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+### 🎨 Modern Interactive UI
+- Animated hero section with parallax motion  
+- Particle network background  
+- Mouse trail visual effect  
+- Project & experience modals  
+- Dark/light theme toggle  
+
+### 🤖 AI-Powered Utilities
+- Portfolio-aware chatbot  
+- Outreach email generator  
+- Secure serverless API endpoints  
+
+### ⚡ Performance & Responsiveness
+- Fast Vite bundling  
+- Mobile-friendly layout  
+- Optimized images & lazy effects  
+
+---
+
+## 📂 Project Structure
+
+/
+├── api/ Serverless functions (Gemini API)
+├── public/ Static assets
+├── src/
+│ ├── components/ UI components
+│ ├── data/ Portfolio data
+│ ├── hooks/ Custom React hooks
+│ ├── utils/ Utility functions
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+
+
+---
+
+## 🔧 Environment Variables
+
+Add the following in:
+
+**Vercel → Project → Settings → Environment Variables**
+
+- GEMINI_API_KEY=your_api_key_here
+
+
+After adding, click **Redeploy** to apply the variable to your serverless functions.
+
+---
+
+## 🛠️ Scripts
+- npm install
+- npm run dev
+- npm run build
+- npm run preview
+
+---
+
+## 🌐 Deployment (Vercel)
+
+This project is optimized for **Vercel hosting**.
+
+1. Push code to the `main` branch  
+2. Vercel automatically installs dependencies and builds the project  
+3. The `/api` directory is deployed as serverless functions  
+4. Visit your Vercel domain to view the live site  
+
+---
+
+## 📸 Screenshots (Optional)
+
+Add screenshots or GIFs here if you want to showcase UI sections:
+
+---
+
+## 📬 Contact
+
+**Udith Narayan**  
+AI Engineer & Full-Stack Developer  
+
+- LinkedIn: *(optional)*  
+- Email: *(optional)*  
+
+---
+
+## ⭐ Acknowledgements
+
+Built with modern frontend tooling, creativity, and a passion for clean interfaces.
+
