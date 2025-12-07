@@ -41,7 +41,7 @@ Built with **React, Vite, Tailwind CSS**, and enhanced with **custom UI effects,
 ---
 
 ## 📂 Project Structure
-
+```
 ├── api/ Serverless functions (Gemini API)
 ├── public/ Static assets
 ├── src/
@@ -56,7 +56,7 @@ Built with **React, Vite, Tailwind CSS**, and enhanced with **custom UI effects,
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
-
+```
 
 ---
 
@@ -103,8 +103,8 @@ Add screenshots or GIFs here if you want to showcase UI sections:
 **Udith Narayan**  
 AI Engineer & Full-Stack Developer  
 
-- LinkedIn: *(optional)*  
-- Email: *(optional)*  
+- LinkedIn: *(https://www.linkedin.com/in/udithnarayan/)*  
+- Email: *udith.narayann@gmail.com*  
 
 ---
 
