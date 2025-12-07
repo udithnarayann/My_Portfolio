@@ -42,7 +42,6 @@ Built with **React, Vite, Tailwind CSS**, and enhanced with **custom UI effects,
 
 ## 📂 Project Structure
 
-/
 ├── api/ Serverless functions (Gemini API)
 ├── public/ Static assets
 ├── src/
